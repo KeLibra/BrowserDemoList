@@ -37,7 +37,6 @@ import java.util.regex.Pattern;
  * - 视频播放问题 https://www.jianshu.com/p/d6d379e3f41d
  */
 public class WebActivity extends AppCompatActivity implements View.OnClickListener {
-
     private WebView webView;
     private ProgressBar progressBar;
     private EditText textUrl;
